@@ -7,7 +7,6 @@
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
-import datetime as dt
 from utils import ReplayBuffer
 
 # Set seeed
