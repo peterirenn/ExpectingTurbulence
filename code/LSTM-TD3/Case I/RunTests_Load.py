@@ -1,8 +1,8 @@
 """
-P. Renn
-Running the Machine class
-Edited to not include the pressure values
-to check if they're confusing the algorithm
+Runs LSTM-TD3 algorithm via the machine class.
+Communicates with experimental aerodynamic testbed via serial. 
+
+Peter I Renn
 """
 import os
 import pickle
