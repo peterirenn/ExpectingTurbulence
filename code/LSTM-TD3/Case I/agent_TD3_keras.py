@@ -1,6 +1,5 @@
 """
-	Peter Renn
-
+LSTM-TD3 written in tensorflow. Original PyTorch implementation found at https://github.com/LinghengMeng/LSTM-TD3
 """
 
 
