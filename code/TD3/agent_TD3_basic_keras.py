@@ -1,8 +1,7 @@
 """
-	Peter Renn
-	4/5/21
+Implementation of TD3 algorithm. 
 
-	TF2 Implementation of TD3.
+Original found implemented in Pytorch at https://github.com/sfujim/TD3
 """
 
 
